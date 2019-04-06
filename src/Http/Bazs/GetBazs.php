@@ -1,0 +1,1 @@
+<?php namespace App\Http\Bazs; class GetBazs { public function __invoke() { } }

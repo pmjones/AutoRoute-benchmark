@@ -1,0 +1,1 @@
+<?php namespace App\Http\Foo\Edit; class GetFooEdit { public function __invoke(int $id) { } }

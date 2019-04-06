@@ -1,0 +1,1 @@
+<?php namespace App\Http\Irk; class PatchIrk { public function __invoke(int $id) { } }

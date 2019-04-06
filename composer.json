@@ -1,0 +1,16 @@
+{
+    "name": "pmjones/auto-route-benchmark",
+    "description": "Benchmarking project for AutoRoute",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.0",
+        "pmjones/auto-route": "1.x-dev"
+    }
+}

@@ -1,0 +1,1 @@
+<?php namespace App\Http\Gir; class PostGir { public function __invoke() { } }

@@ -1,0 +1,1 @@
+<?php namespace App\Http\Doom; class PostDoom { public function __invoke() { } }

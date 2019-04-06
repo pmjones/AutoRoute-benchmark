@@ -1,0 +1,1 @@
+<?php namespace App\Http\Dib; class PatchDib { public function __invoke(int $id) { } }

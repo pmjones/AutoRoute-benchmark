@@ -1,0 +1,1 @@
+<?php namespace App\Http\Irks; class GetIrks { public function __invoke() { } }

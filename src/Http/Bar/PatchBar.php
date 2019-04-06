@@ -1,0 +1,1 @@
+<?php namespace App\Http\Bar; class PatchBar { public function __invoke(int $id) { } }

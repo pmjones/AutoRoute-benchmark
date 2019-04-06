@@ -1,0 +1,1 @@
+<?php namespace App\Http\Dib\Add; class GetDibAdd { public function __invoke() { } }

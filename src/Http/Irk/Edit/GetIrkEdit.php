@@ -1,0 +1,1 @@
+<?php namespace App\Http\Irk\Edit; class GetIrkEdit { public function __invoke(int $id) { } }

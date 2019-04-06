@@ -1,0 +1,1 @@
+<?php namespace App\Http\Quux; class GetQuux { public function __invoke(int $id) { } }

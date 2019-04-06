@@ -1,0 +1,1 @@
+<?php namespace App\Http\Baz\Add; class GetBazAdd { public function __invoke() { } }

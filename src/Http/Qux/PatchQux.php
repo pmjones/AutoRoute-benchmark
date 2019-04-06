@@ -1,0 +1,1 @@
+<?php namespace App\Http\Qux; class PatchQux { public function __invoke(int $id) { } }

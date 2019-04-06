@@ -1,0 +1,1 @@
+<?php namespace App\Http\Quxs; class GetQuxs { public function __invoke() { } }

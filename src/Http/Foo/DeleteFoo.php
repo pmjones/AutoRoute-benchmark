@@ -1,0 +1,1 @@
+<?php namespace App\Http\Foo; class DeleteFoo { public function __invoke(int $id) { } }

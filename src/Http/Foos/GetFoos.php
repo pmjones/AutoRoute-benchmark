@@ -1,0 +1,1 @@
+<?php namespace App\Http\Foos; class GetFoos { public function __invoke() { } }

@@ -1,0 +1,1 @@
+<?php namespace App\Http\Baz; class PostBaz { public function __invoke() { } }

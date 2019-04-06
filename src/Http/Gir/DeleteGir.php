@@ -1,0 +1,1 @@
+<?php namespace App\Http\Gir; class DeleteGir { public function __invoke(int $id) { } }

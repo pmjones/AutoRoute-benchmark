@@ -1,0 +1,1 @@
+<?php namespace App\Http\Bars; class GetBars { public function __invoke() { } }

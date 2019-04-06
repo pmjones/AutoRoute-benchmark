@@ -1,0 +1,1 @@
+<?php namespace App\Http\Quux; class DeleteQuux { public function __invoke(int $id) { } }

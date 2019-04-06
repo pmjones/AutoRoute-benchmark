@@ -1,0 +1,1 @@
+<?php namespace App\Http\Dooms; class GetDooms { public function __invoke() { } }

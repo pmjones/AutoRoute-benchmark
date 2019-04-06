@@ -1,0 +1,1 @@
+<?php namespace App\Http\Zim; class PostZim { public function __invoke() { } }

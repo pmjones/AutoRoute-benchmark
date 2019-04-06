@@ -1,0 +1,1 @@
+<?php namespace App\Http\Qux\Edit; class GetQuxEdit { public function __invoke(int $id) { } }

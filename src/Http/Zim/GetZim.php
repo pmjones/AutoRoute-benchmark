@@ -1,0 +1,1 @@
+<?php namespace App\Http\Zim; class GetZim { public function __invoke(int $id) { } }

@@ -1,0 +1,1 @@
+<?php namespace App\Http\Doom; class DeleteDoom { public function __invoke(int $id) { } }

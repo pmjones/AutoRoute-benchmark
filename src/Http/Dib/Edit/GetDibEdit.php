@@ -1,0 +1,1 @@
+<?php namespace App\Http\Dib\Edit; class GetDibEdit { public function __invoke(int $id) { } }

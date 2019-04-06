@@ -1,0 +1,1 @@
+<?php namespace App\Http\Foo; class PatchFoo { public function __invoke(int $id) { } }

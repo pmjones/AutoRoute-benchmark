@@ -1,0 +1,1 @@
+<?php namespace App\Http\Irk; class GetIrk { public function __invoke(int $id) { } }

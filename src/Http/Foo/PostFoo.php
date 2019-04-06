@@ -1,0 +1,1 @@
+<?php namespace App\Http\Foo; class PostFoo { public function __invoke() { } }

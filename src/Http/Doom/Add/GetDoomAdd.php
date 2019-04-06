@@ -1,0 +1,1 @@
+<?php namespace App\Http\Doom\Add; class GetDoomAdd { public function __invoke() { } }

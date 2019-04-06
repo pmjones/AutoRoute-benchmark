@@ -1,0 +1,1 @@
+<?php namespace App\Http\Baz\Edit; class GetBazEdit { public function __invoke(int $id) { } }

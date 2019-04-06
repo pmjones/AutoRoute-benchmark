@@ -1,0 +1,1 @@
+<?php namespace App\Http\Doom\Edit; class GetDoomEdit { public function __invoke(int $id) { } }

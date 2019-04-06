@@ -1,0 +1,1 @@
+<?php namespace App\Http\Bar\Edit; class GetBarEdit { public function __invoke(int $id) { } }

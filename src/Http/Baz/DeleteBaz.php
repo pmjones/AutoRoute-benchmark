@@ -1,0 +1,1 @@
+<?php namespace App\Http\Baz; class DeleteBaz { public function __invoke(int $id) { } }

@@ -1,0 +1,1 @@
+<?php namespace App\Http\Dib; class PostDib { public function __invoke() { } }

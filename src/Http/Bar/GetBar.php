@@ -1,0 +1,1 @@
+<?php namespace App\Http\Bar; class GetBar { public function __invoke(int $id) { } }

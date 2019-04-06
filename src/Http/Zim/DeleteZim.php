@@ -1,0 +1,1 @@
+<?php namespace App\Http\Zim; class DeleteZim { public function __invoke(int $id) { } }

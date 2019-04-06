@@ -1,0 +1,1 @@
+<?php namespace App\Http\Gir\Add; class GetGirAdd { public function __invoke() { } }

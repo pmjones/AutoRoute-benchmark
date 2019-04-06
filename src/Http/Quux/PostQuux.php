@@ -1,0 +1,1 @@
+<?php namespace App\Http\Quux; class PostQuux { public function __invoke() { } }

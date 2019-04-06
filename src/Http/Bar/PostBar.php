@@ -1,0 +1,1 @@
+<?php namespace App\Http\Bar; class PostBar { public function __invoke() { } }
