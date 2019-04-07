@@ -35,4 +35,4 @@ Executing `php bin/benchmark.php`, a typical result is:
     FastRoute Runtime: 1.9010598659515
     FastRoute Cached:  0.12522411346436
 
-As such, AutoRoute runtime is slightly faster than the cached FastRoute.
+As such, AutoRoute runtime is slightly faster even than the cached FastRoute.
