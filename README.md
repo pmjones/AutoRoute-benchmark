@@ -1,5 +1,10 @@
 # AutoRoute Benchmarks
 
+This benchmark measures only the provided scenario. It may or may not apply to
+your situation, and may or may not be indicative of other scenarios. Finally,
+remember that routing is only one part of your HTTP user interface; speed of
+routing is unlikely to be your primary bottleneck.
+
 ## Scenario
 
 Given 7 action URL paths ...
@@ -36,3 +41,4 @@ Executing `php bin/benchmark.php`, a typical result is:
     FastRoute Cached:  0.12522411346436
 
 As such, AutoRoute runtime is slightly faster even than the cached FastRoute.
+
