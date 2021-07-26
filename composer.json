@@ -11,6 +11,6 @@
     },
     "require": {
         "nikic/fast-route": "^1.0",
-        "pmjones/auto-route": "1.x-dev"
+        "pmjones/auto-route": "2.x-dev"
     }
 }

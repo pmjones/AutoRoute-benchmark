@@ -33,7 +33,7 @@ for ($i = 1; $i <= $k; $i++) {
         dirname(__DIR__) . '/src/Http'
     );
 
-    $router = $autoRoute->newRouter();
+    $router = $autoRoute->getRouter();
 
     list($verb, $path) = explode(' ', $randoPaths[array_rand($randoPaths)]);
     $name = $randoNames[array_rand($randoNames)];
