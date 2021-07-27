@@ -60,8 +60,8 @@ As such, AutoRoute runtime is roughly 3x faster even than the cached FastRoute.
 
 > **Note:**
 >
-> An earlier version of these benchmarks reported results with XDebug enabled,
-> which slowed down everything. Those results were:
+> An earlier version of these benchmarks reported results with XDebug enabled.
+> That oversight on my part slowed down everything. Those results were:
 >
 > ```
 > **PHP 7.2 (XDebug enabled)**
@@ -70,5 +70,3 @@ As such, AutoRoute runtime is roughly 3x faster even than the cached FastRoute.
 > FastRoute Runtime: 1.9010598659515
 > FastRoute Cached:  0.12522411346436
 >```
-
-
