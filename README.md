@@ -36,6 +36,7 @@ occurs as part of that request/response cycle.
 
 Executing `php bin/benchmark.php`, a typical result is:
 
+    ** PHP 8.0 **
     AutoRoute Runtime: 0.042912006378174
     FastRoute Runtime: 0.20303583145142
     FastRoute Cached:  0.097861051559448
