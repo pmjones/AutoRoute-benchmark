@@ -36,9 +36,9 @@ occurs as part of that request/response cycle.
 
 Executing `php bin/benchmark.php`, a typical result is:
 
-    AutoRoute Runtime: 0.11443305015564
-    FastRoute Runtime: 1.9010598659515
-    FastRoute Cached:  0.12522411346436
+    AutoRoute Runtime: 0.042912006378174
+    FastRoute Runtime: 0.20303583145142
+    FastRoute Cached:  0.097861051559448
 
-As such, AutoRoute runtime is slightly faster even than the cached FastRoute.
-
+Thus, AutoRoute runtime is a little more than 2x faster than FastRoute, even
+when cached.
