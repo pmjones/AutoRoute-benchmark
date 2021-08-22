@@ -1,4 +1,8 @@
 <?php
+if (extension_loaded('xdebug')) {
+    echo "XDebug is loaded, which reduces performance." . PHP_EOL;
+}
+
 $autoload = require dirname(__DIR__) . '/vendor/autoload.php';
 
 $k = 1000;
