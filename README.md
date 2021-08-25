@@ -1,4 +1,4 @@
-# AutoRoute Benchmarks
+# AutoRoute Benchmarks (2.x)
 
 This benchmark measures only the provided scenario. It may or may not apply to
 your situation, and may or may not be indicative of other scenarios. Finally,
